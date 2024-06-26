@@ -51,10 +51,3 @@
 
 ###
 
-<img align="right" height="182" src="https://i.gifer.com/THqs.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Alexandre-P-Inacio/Alexandre-P-Inacio/output/snake.svg" alt="Snake animation" />
-
-###
